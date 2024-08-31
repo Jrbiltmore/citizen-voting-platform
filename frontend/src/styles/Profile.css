@@ -1,0 +1,15 @@
+/* Profile page styles for the Citizen Voting Platform */
+
+.profile-page {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.health-data {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 20px;
+}

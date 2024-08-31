@@ -1,0 +1,31 @@
+/* NotFound page styles for the Citizen Voting Platform */
+
+.not-found {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+.not-found h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.not-found p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.home-link {
+    font-size: 20px;
+    color: #007bff;
+    text-decoration: none;
+}
+
+.home-link:hover {
+    text-decoration: underline;
+}

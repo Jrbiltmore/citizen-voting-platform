@@ -1,0 +1,17 @@
+/* Vote page styles for the Citizen Voting Platform */
+
+.vote-page {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.choices {
+    margin: 20px 0;
+}
+
+.message {
+    margin-top: 20px;
+    color: green;
+}
